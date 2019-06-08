@@ -38,10 +38,10 @@ git clone https://github.com/chen3262/Plot_Sec_Struc.git
 ```
 - Use the provided ```timeline.tml``` for a test
 - If run properly, you will get two pictures, ```sec_struct_horizontal.pdf``` and ```sec_struct_vertical.pdf```
-- Sample output of ```sec_struct_horizontal.pdf```
+- Sample output of ```sec_struct_horizontal.pdf```, where the populations of different secondary structures for each residues are represented in grey scales.
 <img src ="https://github.com/chen3262/Plot_Sec_Struc/blob/master/sec_struct_horizontal.png" width="1000">
 
-- Sample output of ```sec_struct_vertical.pdf```
+- Sample output of ```sec_struct_vertical.pdf```, which provide numerical values of the secondary structure population.
 <img src ="https://github.com/chen3262/Plot_Sec_Struc/blob/master/sec_struct_vertical.png" width="500">
 
 
