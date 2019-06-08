@@ -29,7 +29,7 @@ python Plot_Sec_Struct.py
 ```bash
 git clone https://github.com/chen3262/Plot_Sec_Struct
 ```
-- Use the provided timeline.tml for a test
+- Use the provided ```timeline.tml``` for a test
 - If run properly, you will get two pictures, ```sec_struct_horizontal.pdf``` and ```sec_struct_vertical.pdf```
 - Sample output of ```sec_struct_horizontal.pdf```
 <img src ="https://github.com/chen3262/Plot_Sec_Struc/blob/master/sec_struct_horizontal.png" width="1000">
