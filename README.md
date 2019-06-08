@@ -1,4 +1,4 @@
-<img src ="https://github.com/chen3262/Plot_Sec_Struc/blob/master/sec_struct_horizontal.png" width="750">
+<img src ="https://github.com/chen3262/Plot_Sec_Struc/blob/master/sec_struct_horizontal.png" width="1000">
 
 Plot_sec_struct.py is Python script to process and plot the secondary strcuture of a preotrin, which requires inputs files from VMD Timeline > Cal. Sec. Struc ( [tutorial](https://www.ks.uiuc.edu/Training/Tutorials/science/timeline/tutorial_timeline-html/)).
 
@@ -32,7 +32,8 @@ git clone https://github.com/chen3262/Plot_Sec_Struct
 - Use the provided timeline.tml for a test
 - If run properly, you will get two pictures, ```sec_struct_horizontal.pdf``` and ```sec_struct_vertical.pdf```
 - Sample output of ```sec_struct_horizontal.pdf```
-<img src ="https://github.com/chen3262/Plot_Sec_Struc/blob/master/sec_struct_horizontal.png" width="750">
+<img src ="https://github.com/chen3262/Plot_Sec_Struc/blob/master/sec_struct_horizontal.png" width="1000">
+
 - Sample output of ```sec_struct_vertical.pdf```
 <img src ="https://github.com/chen3262/Plot_Sec_Struc/blob/master/sec_struct_vertical.png" width="500">
 
