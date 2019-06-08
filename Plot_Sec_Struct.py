@@ -62,7 +62,7 @@ cax = plt.gcf().axes[-1]
 cax.tick_params(labelsize=20)
 for _, spine in ax.spines.items():
     spine.set_visible(True)
-plt.savefig(DIR+'sec_struct_horizontal.pdf')
+plt.savefig(DIR+'/sec_struct_horizontal.pdf')
 
 plt.figure(figsize=dim_fig2)
 ax = sns.heatmap(percentage, cmap='binary',annot=True, cbar=False,norm=colors.PowerNorm(gamma=1./4.))
@@ -73,4 +73,4 @@ ax.set_yticklabels(ax.get_yticklabels(), rotation = 0)
 ax.set_xticklabels(ax.get_xticklabels(), rotation = 70)
 for _, spine in ax.spines.items():
     spine.set_visible(True)
-plt.savefig(DIR+'sec_struct_vertical.pdf')
+plt.savefig(DIR+'/sec_struct_vertical.pdf')
