@@ -1,9 +1,9 @@
-<img src ="https://github.com/chen3262/Rectified_Trj/blob/master/pic.png" width="750">
+<img src ="https://github.com/chen3262/Plot_Sec_Struc/blob/master/sec_struct_vertical.png" width="750">
 
 Plot_sec_struct.py is Python script to process and plot the secondary strcuture of a preotrin, which requires inputs files from VMD Timeline > Cal. Sec. Struc ( [tutorial](https://www.ks.uiuc.edu/Training/Tutorials/science/timeline/tutorial_timeline-html/)).
 
 ## Requirements
-python modules: numpy, pandas, matplotlib, seaborn
+python modules: ```numpy```, ```pandas```, ```matplotlib```, ```seaborn```
 
 To check if you have these modules installed, you can either do
 ```bash
@@ -30,7 +30,7 @@ python Plot_Sec_Struct.py
 git clone https://github.com/chen3262/Plot_Sec_Struct
 ```
 - Use the provided timeline.tml for a test
-- If run properly, you will get two pictures, ```bash sec_struct_horizontal.pdf``` and ```bash sec_struct_vertical.pdf```
+- If run properly, you will get two pictures, ```sec_struct_horizontal.pdf``` and ```sec_struct_vertical.pdf```
 
 ## License
 
