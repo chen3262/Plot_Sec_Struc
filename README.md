@@ -17,13 +17,20 @@ pip install module_name
 ```
 ## Preparation Steps
 Step 1: Obtain a *.tml output from VMD Timeline > Cal. Sec. Struc.
+
 Step 2: provide the path of the .tml file, output folder path, and adjust the dimension of the picture in line 2-6 of the scripts.
 
-## Download and Testing
+Step 3:
 ```bash
 python Plot_Sec_Struct.py
 ```
-
+## Download and Testing
+- Download:
+```bash
+git clone https://github.com/chen3262/Plot_Sec_Struct
+```
+- Use the provided timeline.tml for a test
+- If run properly, you will get two pictures, sec_struct_horizontal.pdf and sec_struct_vertical.pdf
 
 ## License
 
