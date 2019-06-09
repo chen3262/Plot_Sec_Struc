@@ -41,7 +41,7 @@ git clone https://github.com/chen3262/Plot_Sec_Struc.git
 - Sample output of ```sec_struct_horizontal.pdf```, where the populations of different secondary structures for each residues are represented in grey scales.
 <img src ="https://github.com/chen3262/Plot_Sec_Struc/blob/master/sec_struct_horizontal.png" width="1000">
 
-- Sample output of ```sec_struct_vertical.pdf```, which provide numerical values of the secondary structure population.
+- Sample output of ```sec_struct_vertical.pdf```, which is annotated with numerical values of the secondary structure population.
 <img src ="https://github.com/chen3262/Plot_Sec_Struc/blob/master/sec_struct_vertical.png" width="500">
 
 
